@@ -1,6 +1,6 @@
 
 
-## 🏗️Estrutura do Projeto
+## Estrutura do Projeto
 O sistema está dividido em três componentes principais que automatizam todo o fluxo de trabalho:
 
 ### 1. `indexar.py` (O Cérebro)
